@@ -2,6 +2,8 @@ Aplicação criada com React
 
 Busca de receitas via API
 
+Ver demo: https://n9kfj.csb.app/
+
 ##
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
